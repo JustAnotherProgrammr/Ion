@@ -2,7 +2,7 @@
 A text editor made with python
 
 
-#Requirements:
+# Requirements:
 Python3
 python3-tk
 
