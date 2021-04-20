@@ -7,7 +7,7 @@ Python3
 python3-tk
 
 
-#Running
+# Running
 Extract the Ion archive and unzip
 ttkthemes, then run the .py 
 file(on linux you have to change 
